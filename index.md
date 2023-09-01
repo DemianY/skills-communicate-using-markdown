@@ -16,3 +16,9 @@ print("14848-markdown")
 ```
 
 Practiced adding a code in Markdown
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+Practiced task list in Markdown
