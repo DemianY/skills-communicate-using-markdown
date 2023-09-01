@@ -10,3 +10,9 @@ Practiced 6 types of headers in Markdown
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Practiced adding image in Markdown
+
+``` python
+print("14848-markdown")
+```
+
+Practiced adding a code in Markdown
